@@ -30,8 +30,21 @@ o anillos como yo hice.
 
 ---
 
-### Proyectos
+### Proyecto 1
 
-![]()
+```
+
+Con este proyecto probamos la vectorizacion y asi es el proceso que seguimos:
+
+Vectorizamos el león con las siguientes caractersticas:
+
+- Múltiples pasadas
+- Cambiamos Colores
+- 8 pasadas
+
+
+```
+
+![](https://raw.githubusercontent.com/Baultek/1-Trimestre/2a0b80d81f7e0ff1eb207b15296f2ab8ca91c5df/Imagenes%20montaje%20de%20ordenadores/Leon%201.svg)
 
 ---
