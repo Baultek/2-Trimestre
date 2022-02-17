@@ -6,4 +6,4 @@
 
 ### [2.Inkscape](https://github.com/Baultek/3D/blob/main/Inkscape.md#inkscape)
 
-### [3.CNC]()
+### [3.CNC](https://github.com/Baultek/3D/blob/main/CNC.md#cnc)
