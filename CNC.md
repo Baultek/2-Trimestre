@@ -18,4 +18,4 @@ deseado sirve para cortar principalmente.
 
 ---
 
-![]()
+![](https://github.com/Baultek/3D/blob/main/Imagenes%203D/imagen%20CNC.jpeg?raw=true)
