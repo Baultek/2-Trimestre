@@ -10,6 +10,8 @@
 
 ##### [4.Proyecto 2](https://github.com/Baultek/3D/blob/main/Inkscape.md#proyecto-2---logos)
 
+---
+
 ### Información
 
 ```
