@@ -50,7 +50,7 @@ o
 
 ```
 
-![]()
+![](https://github.com/Baultek/3D/blob/main/Imagenes%203D/concentrico%202.png?raw=true)
 
 ```
 
