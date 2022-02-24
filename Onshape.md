@@ -28,6 +28,14 @@ y me gustaria dedicarme a algo relacionado con este tipo de programas.
 
 ---
 
+### Restricciones
+
+![]()
+
+
+
+---
+
 ### Imagenes de Proyectos
 
 - Este proyecto me costo llevarlo a cabo ya que tiene una forma muy peculiar
