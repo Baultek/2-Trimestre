@@ -224,8 +224,3 @@ asi que puedan cambiarse las cotas.
 ##### - [Proyecto 33]()
 
 ---
-
-### [Onshape](https://www.onshape.com/en/)
-
-
-![](https://github.com/Baultek/3D/blob/main/Imagenes%203D/unnamed.png)
