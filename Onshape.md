@@ -145,28 +145,137 @@ asi que puedan cambiarse las cotas.
 
 ---
 
-Proyecto 
-
-
-
-
-
-
-
----
-
 ### Imagenes de Proyectos
 
-```
-
-Este proyecto me costo llevarlo a cabo ya que tiene una forma muy peculiar
-hecha con la herramienta del circulo pero alfinal pude comprenderlo.
-
-```
-
-![](https://github.com/Baultek/3D/blob/main/Imagenes%203D/Circulos.png?raw=true)
+#### [Proyecto 1](https://cad.onshape.com/documents/c2462b535728cea8724cc3ac/w/f5e3070fbd807c68b1aebce3/e/b38e9313b6d47a8768e20485)
 
 ![]()
+
+#### Proyecto 2
+
+![]()
+
+#### Proyecto 3
+
+![]()
+
+#### Proyecto 4
+
+![]()
+
+#### Proyecto 5
+
+![]()
+
+#### Proyecto 6
+
+![]()
+
+#### Proyecto 7
+
+![]()
+
+#### Proyecto 8
+
+![]()
+
+#### Proyecto 9
+
+![]()
+
+#### Proyecto 10
+
+![]()
+
+#### Proyecto 11
+
+![]()
+
+#### Proyecto 12
+
+![]()
+
+#### Proyecto 13
+
+![]()
+
+#### Proyecto 14
+
+![]()
+
+#### Proyecto 15
+
+![]()
+
+#### Proyecto 16
+
+![]()
+
+#### Proyecto 17
+
+![]()
+
+#### Proyecto 18
+
+![]()
+
+#### Proyecto 19
+
+![]()
+
+#### Proyecto 20
+
+![]()
+
+#### Proyecto 21
+
+![]()
+
+#### Proyecto 22
+
+![]()
+
+#### Proyecto 23
+
+![]()
+
+#### Proyecto 24
+
+![]()
+
+#### Proyecto 25
+
+![]()
+
+#### Proyecto 26
+
+![]()
+
+#### Proyecto 27
+
+![]()
+
+#### Proyecto 28
+
+![]()
+
+#### Proyecto 29
+
+![]()
+
+#### Proyecto 30
+
+![]()
+
+#### Proyecto 31
+
+![]()
+
+#### Proyecto 32
+
+![]()
+
+#### Proyecto
 
 ---
 
