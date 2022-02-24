@@ -4,7 +4,7 @@
 
 ##### [1.Información](https://github.com/Baultek/3D/blob/main/Onshape.md#informaci%C3%B3n)
 
-##### [2.Experiencia](https://github.com/Baultek/3D/edit/main/Onshape.md#experiencia)
+##### [2.Experiencia](https://github.com/Baultek/3D/blob/main/Onshape.md#experiencia)
 
 ##### [3Restriccionnes](https://github.com/Baultek/3D/edit/main/Onshape.md#restricciones)
 
