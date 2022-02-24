@@ -6,9 +6,9 @@
 
 ##### [2.Experiencia](https://github.com/Baultek/3D/blob/main/Onshape.md#experiencia)
 
-##### [3Restriccionnes](https://github.com/Baultek/3D/edit/main/Onshape.md#restricciones)
+##### [3Restriccionnes](https://github.com/Baultek/3D/blob/main/Onshape.md#restricciones)
 
-##### [4.Lista de Proyectos](https://github.com/Baultek/3D/edit/main/Onshape.md#lista-de-proyectos)
+##### [4.Lista de Proyectos](https://github.com/Baultek/3D/blob/main/Onshape.md#lista-de-proyectos)
 
 ### Información
 
