@@ -1,5 +1,15 @@
 # Inkscape
 
+### Índice
+
+##### [1.Información](https://github.com/Baultek/3D/blob/main/Inkscape.md#informaci%C3%B3n)
+
+##### [2.Experiencia](https://github.com/Baultek/3D/blob/main/Inkscape.md#experiencia)
+
+##### [3.Proyecto 1](https://github.com/Baultek/3D/blob/main/Inkscape.md#proyecto-1---le%C3%B3n)
+
+##### [4.Proyecto 2](https://github.com/Baultek/3D/blob/main/Inkscape.md#proyecto-2---logos)
+
 ### Información
 
 ```
