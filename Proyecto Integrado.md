@@ -28,7 +28,9 @@ un ritmo constante de trabajo pero no saturarnos y organizarnos.
 
 ```
 
-Del software y hardware se encargo mi compañero Alex con una gran colaboración de nuestro compañero Stiven que nos ayudo para hacer el codigo y asi poder crear el movimiento del espantapajaros.
+Del software y hardware se encargo mi compañero Alex con una gran colaboración de
+nuestro compañero Stiven que nos ayudo para hacer el codigo y asi poder crear el
+movimiento del espantapajaros.
 
 ```
 
@@ -66,7 +68,9 @@ bastante satisfactorio.
 
 ```
 
-En mi caso colabore con distintos grupos ya que me pidieron ayuda, en los diferentes trabajos que colabore fueron, haciendo la bomba de agua de Miguel Anguel, Anguel y Arnau ayudando a montar el mini invernadero de Juan y Ainhoa y montar/decorar el hotel para bichos de Saray y David.
+En mi caso colabore con distintos grupos ya que me pidieron ayuda, en los diferentes trabajos
+que colabore fueron, haciendo la bomba de agua de Miguel Anguel, Anguel y Arnau ayudando
+a montar el mini invernadero de Juan y Ainhoa y montar/decorar el hotel para bichos de Saray y David.
 
 ```
 
